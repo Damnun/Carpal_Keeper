@@ -78,3 +78,7 @@ It is a wrist protector that helps improve Carpal Tunnel Syndrome symptoms using
 https://youtu.be/YaL7QLNlIGQ<br>
 Carpal Keeper 시연 영상<br>
 실험자에게 게임을 플레이 시킨 후, 플레이 하는 동안 손목에 주어지는 압력값을 그래프로 나타내고 있음.
+
+# 수상
+![이재헌 대회수상 증명서](https://user-images.githubusercontent.com/72370701/159743836-492ca26e-b504-49fc-a3b9-6f921404c750.jpg)
+순천향대학교 의료IT공학과 학술제에서 2019년 우수상을 수상하였습니다.
