@@ -57,3 +57,9 @@ It is a wrist protector that helps improve Carpal Tunnel Syndrome symptoms using
 ![image](https://user-images.githubusercontent.com/72370701/159737885-75332d82-3cac-4a9a-ba9a-314a79cdd5e9.png)
 
 
+# 제작 과정 실험 사진
+![실험사진](https://user-images.githubusercontent.com/72370701/159738709-83b5dd88-60e2-4567-a83f-970c26d0318c.jpg)
+
+
+# 시연 영상
+
