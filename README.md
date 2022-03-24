@@ -66,7 +66,7 @@ It is a wrist protector that helps improve Carpal Tunnel Syndrome symptoms using
 ![image](https://user-images.githubusercontent.com/72370701/159737842-c51e7259-6205-4644-89c4-f51602840cba.png)
 
 
-# 카파 키퍼 실행 화면
+# 그래프로 나타낸 손목 신경에 가해지는 압력값
 ![image](https://user-images.githubusercontent.com/72370701/159737885-75332d82-3cac-4a9a-ba9a-314a79cdd5e9.png)
 
 
